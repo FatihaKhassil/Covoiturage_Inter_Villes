@@ -49,3 +49,20 @@ inter-villes à moindre coût.
 
 ### 📌Configurer le fichier de connexion avec DB
 Covoiturage/dao/factory/dao.properties
+
+## 👩‍💻 Authors
+
+This project was developed by:
+
+### **Fatiha Khassil**
+**Data & Software Engineering Student — ENSIAS**
+
+### **Oumaima Lahkiar**
+**Data & Software Engineering Student — ENSIAS**
+
+---
+
+## 👩‍🏫 Supervision
+
+**Mrs. Karima Moumane**  
+Professor at **ENSIAS — École Nationale Supérieure d'Informatique et d'Analyse des Systèmes**
